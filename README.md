@@ -1,10 +1,4 @@
-# Online-Shopping-Cart-Database-Project
-
-You may find more details about this project at my [personal blog](http://www.aaronguan.com/database-project.html)
-
-## ER Diagram
-
-![image](http://www.aaronguan.com/images/database/ER.PNG)
+# Online shopping Application
 
 ### Entities
 
